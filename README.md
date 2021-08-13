@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cyberThanos22
+- 👀 I’m interested in Web development, Windows and Linux administartion, offline apps and games also Cloud based deployment.
+- 🌱 I’m currently learning data science, AI and ML.
+- 📫 How to reach me on Kaustubh022m@gmail.com
